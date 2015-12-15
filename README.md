@@ -1,2 +1,5 @@
 # iimaps.github.io
-placing maps in web apps  
+Testing this site with web-app elements 
+## service-worker
+Requires https (available on github)
+
