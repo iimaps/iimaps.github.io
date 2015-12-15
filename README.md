@@ -1,5 +1,5 @@
 # iimaps.github.io
-Testing this site with web-app elements 
-## service-worker
+This site is used to test/demo "new" web-app elements 
+### 1. service-worker
 Requires https (available on github)
 
