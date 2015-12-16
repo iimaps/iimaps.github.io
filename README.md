@@ -1,5 +1,5 @@
 # iimaps.github.io/
-First project site (airhorner)
+iimaps project site (airhorner)
 
-### testmode
+### s-w testmode
 
